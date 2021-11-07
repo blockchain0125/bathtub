@@ -21,7 +21,6 @@ export const Tub = styled.div`
   margin-top: 10px;
   display: grid;
   grid-auto-rows: 50px;
-  grid-gap: 5px;
   background-color: #66ccff;
   padding: 10px;
 `;
